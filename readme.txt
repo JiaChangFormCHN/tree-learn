@@ -1,3 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+tree文件夹里面目前有二叉树的顺序存储和二叉链式存储的源码
+下载下来直接导进工程里面即可测试（注：我使用的是MyEclipse）
